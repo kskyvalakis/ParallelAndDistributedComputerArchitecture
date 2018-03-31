@@ -1,6 +1,6 @@
 # Parallel-and-Distributed-Computer-Architecture
 
-Parameter Information & Set-upnum
+Parameter Information & Set-up :
 
 seed : seed to be used for the pseudorandom function  
 m : number of strings in set A  
